@@ -24,8 +24,8 @@ import {
     TransactionBuilder,
     type Umi,
 } from "@metaplex-foundation/umi";
-// import { getExplorerLink } from "@solana-developers/helpers";
-// import { transferSol } from "@metaplex-foundation/mpl-toolbox";
+import { getExplorerLink } from "@solana-developers/helpers";
+import { transferSol } from "@metaplex-foundation/mpl-toolbox";
 import bs58 from "bs58";
 import { elizaLogger } from "@elizaos/core";
 
