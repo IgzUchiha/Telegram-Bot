@@ -21,10 +21,10 @@ overrides:
   bs58: 5.0.0
   '@coral-xyz/anchor': 0.28.0
 
-patchedDependencies:
-  '@solana-developers/helpers':
-    hash: o7e7p3gymjfe47gpx3v72tckoy
-    path: patches/@solana-developers__helpers.patch
+# patchedDependencies:
+#   '@solana-developers/helpers':
+#     hash: o7e7p3gymjfe47gpx3v72tckoy
+#     path: patches/@solana-developers__helpers.patch
 
 importers:
 
