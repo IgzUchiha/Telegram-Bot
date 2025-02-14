@@ -1,6 +1,6 @@
 {
     "name": "CryptoOracle",
-    "clients": ["telegram"],
+    "clients": ["telegram","discord"],
     "modelProvider": "openai",
     "settings": {
         "voice": {
